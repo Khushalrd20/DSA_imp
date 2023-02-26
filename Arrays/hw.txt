@@ -1,0 +1,5 @@
+1.leetcode = unique solution
+link =https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFRxaXBqTVhfektFVDU5SGl1UDh6RmlEeS0td3xBQ3Jtc0trQWhOWXM5MWVDNFdlTVdwS0pPREZmNl96UVE5QjVMaFZ2S1FOV05CRHZsZFRGejlVMmNhaC16UTFlOGxPTWJORG05YTBSSkk1b0d4U2NKVzNYQW1FMHFkTlJjeDZYOTA2Q3BjRjRMVm9wWnp3WmVRYw&q=https%3A%2F%2Fleetcode.com%2Fproblems%2Funique-number-of-occurrences%2F&v=oVa8DfUDKTw
+
+2.leetcode = find all duplicate in array
+link =https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkgyeURteDVSVWhQeDd5SnRwb1FTa0xnY0ZMQXxBQ3Jtc0tuTUdqZWx1R2FjRmMySnV0NjAtVDZJdHBPa1VxRnhJa0wxd0JBa2JDZS1TRFh2aHA5b1lIbnJUaldqMEdndkNUdTZuOC1DbUVva0prZHZnbFduQ2hIM19UN1U2TEpUZDl2VEJDMnR0eEJQS2x6bk9DRQ&q=https%3A%2F%2Fleetcode.com%2Fproblems%2Ffind-all-duplicates-in-an-array%2F&v=oVa8DfUDKTw

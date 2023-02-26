@@ -1,0 +1,1 @@
+// formula total no of occ =(last index -first index )+ 1
